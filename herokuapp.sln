@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herokuappUITest", "herokuapp\herokuappUITest.csproj", "{8FB4A728-7252-4523-B90D-554510F6C57B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herokuappAPITest", "herokuappAPITest\herokuappAPITest.csproj", "{43FED735-A6C1-428F-AE34-7DBCA99D3A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB4A728-7252-4523-B90D-554510F6C57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB4A728-7252-4523-B90D-554510F6C57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB4A728-7252-4523-B90D-554510F6C57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB4A728-7252-4523-B90D-554510F6C57B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FED735-A6C1-428F-AE34-7DBCA99D3A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FED735-A6C1-428F-AE34-7DBCA99D3A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FED735-A6C1-428F-AE34-7DBCA99D3A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FED735-A6C1-428F-AE34-7DBCA99D3A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85CD9041-77DD-47B6-A858-3B528BE58253}
+	EndGlobalSection
+EndGlobal

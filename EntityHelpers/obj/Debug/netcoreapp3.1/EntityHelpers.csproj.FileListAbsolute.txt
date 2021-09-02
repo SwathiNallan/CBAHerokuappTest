@@ -1,0 +1,10 @@
+C:\Swathi\Test\herokuapp\EntityHelpers\bin\Debug\netcoreapp3.1\EntityHelpers.deps.json
+C:\Swathi\Test\herokuapp\EntityHelpers\bin\Debug\netcoreapp3.1\EntityHelpers.dll
+C:\Swathi\Test\herokuapp\EntityHelpers\bin\Debug\netcoreapp3.1\EntityHelpers.pdb
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.csproj.AssemblyReference.cache
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.AssemblyInfoInputs.cache
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.AssemblyInfo.cs
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.csproj.CoreCompileInputs.cache
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.dll
+C:\Swathi\Test\herokuapp\EntityHelpers\obj\Debug\netcoreapp3.1\EntityHelpers.pdb
